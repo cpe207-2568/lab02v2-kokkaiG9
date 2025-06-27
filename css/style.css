@@ -1,0 +1,52 @@
+.center {
+    color: tan;
+    text-align: center;
+    font-style: italic;
+}
+
+.libertinus-math-regular {
+    font-family: "Libertinus Math", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.h {
+    font-family: "Libertinus Math", system-ui;
+}
+
+.s2 {
+    text-align: center;
+    margin-right: 10px;
+}
+
+.container {
+    display: flex;
+    align-items: start;
+    width: 100%;
+    height: 100%;
+}
+
+.box {
+    width: 50%;
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+a:hover{
+    color: darkred;
+}
+
+.box2 {
+    border: 2px solid darkblue;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-top: 30px;
+
+
+}
